@@ -1,0 +1,4 @@
+1. Total population of unique mice per drug regimen was predominantly even across all regimens. Gender representation in the test mouse population was almost even as well, with male just slightly over at 50.4%.
+2. Of the four drug regimen's highlighted, very few oberved tumor volumes were outliers compared to the rest of the data. 
+3. Reviewing the test results for one mouse on Capomulin, tumor volume decreases as time increases, showing a steady decline.
+4. There seems to be a correlation between average tumor volume and test mouse weight. Both increase in tangent, with a standard correlation coefficient of .84 
